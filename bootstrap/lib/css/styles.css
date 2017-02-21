@@ -1,0 +1,26 @@
+#container {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: "skyImage.png";
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+main {
+    background-color: white;
+    background-image: "skyImage.png";
+    font-family: sans-serif;
+}
+h2 {
+    background-color: darkblue;
+    color: white;
+    text-decoration: bold;
+    font-family: sans-serif;
+}
+footer {
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-size: 10px;
+}
